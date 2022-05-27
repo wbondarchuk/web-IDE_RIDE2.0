@@ -1,0 +1,6 @@
+apscheduler
+flask
+flask_sqlalchemy
+flask_login
+cachecontrol
+google_auth_oauthlib
